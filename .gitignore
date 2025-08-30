@@ -1,0 +1,24 @@
+# General
+.vscode
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# --- Backend Specific ---
+/trackintrade-backend/node_modules
+/trackintrade-backend/.env
+
+# --- Frontend Specific ---
+/trackintrade-frontend/node_modules
+/trackintrade-frontend/dist
+/trackintrade-frontend/dist-ssr
+/trackintrade-frontend/.vite
+/trackintrade-frontend/.env.local
+/trackintrade-frontend/.env.*.local
