@@ -1,17 +1,8 @@
-# 📈 TrackInTrade
+# 📈 Zenith
 
 An intelligent trading journal to track, analyze, and optimize your performance using a powerful dashboard and AI-powered insights.
 
 ---
-
-## 🚀 Live Demo
-
-*[Link to your deployed application will go here once it's live!]*
-
-## 📸 Screenshot
-
-![TrackInTrade Dashboard](path/to/your/screenshot.png)
-*Replace this with a path to a good screenshot of your dashboard!*
 
 ## ✨ Features
 
